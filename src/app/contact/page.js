@@ -57,7 +57,7 @@ export default function Contactpage() {
                   </button>
                 </div>
                 <p class="text-sm mt-2 text-gray-500 mb-8 w-full">
-                  Please Enter Valid E-mail Adress
+                  Please Enter Valid E-mail Address
                 </p>
                 <div class="flex lg:flex-row md:flex-col">
                   <button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
